@@ -4,4 +4,4 @@ print("NOW WRITE YOUR TEXT:")
 john = input()
 #Creating the file
 with open(name, "wt") as out_file:
-  out_file.write(john)
+    out_file.write(john)
