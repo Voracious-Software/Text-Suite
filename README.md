@@ -1,5 +1,6 @@
 Text-Suite
 ==========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Voracious-Software/Text-Suite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A suite of text-related editors and readers.
 
