@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1416438395 source:/home/axmill/Programs/Text-Suite/Shared_Lib/main.c
-	<stdio.h>
-	"main.h"
-
-1416438403 /home/axmill/Programs/Text-Suite/Shared_Lib/main.h
-
