@@ -1,10 +1,10 @@
-from modules import text_suite
+from modules import text_suite as ts
 
 print("READ OR WRITE? (CASE SENSITIVE)")
 choice = input()
 
 if choice == "READ":
-    text_suite.write_text()
+    ts.write_text()
 
 if choice == "WRITE":
-    text_suite.read_text()
+    ts.read_text()

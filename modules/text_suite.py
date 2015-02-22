@@ -2,10 +2,10 @@ def write_text():
     print("File name:")
     name = input()
     print("Text:")
-    john = input()
+    fileContents = input()
     #Creating the file
     with open(name, "wt") as out_file:
-        out_file.write(john)
+        out_file.write(fileContents)
 
 
 def read_text():
